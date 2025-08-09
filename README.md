@@ -37,7 +37,7 @@
 
 <h2 align="center">🔥 My Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodmp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="language stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodmp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="language stats"/>
 </div>
 
 ###
