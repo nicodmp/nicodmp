@@ -1,5 +1,8 @@
+<div align="center">
+    <img src="img/anime_computer-keyboard.gif" width="30%">
+</div>
 <h1 align="Center">👨‍💻 About Me</h1>
-<p align="center">🤝 Hi! I'm Nico.</p>
+<p align="center">🤝 Hi! I'm Nico. My main areas of interest are Ruby on Rails and AI automation.</p>
 
 ###
 
